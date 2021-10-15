@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\School\\COMP1017\\Repositories\\Class Workbook\\1017-sep-2021-oa04-labs-jchoubassi1\\framework\\index.html"
+        }
+    ]
+}
